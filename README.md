@@ -1,4 +1,4 @@
-[![Header](https://github.com/cyn-chen01/cyn-chen01/blob/main/CCT_Winter19_Page_09_Image_0001.jpg "Header")]
+![Header](https://github.com/cyn-chen01/cyn-chen01/blob/main/CCT_Winter19_Page_09_Image_0001.jpg "Header")
 
 ### Hi there 👋
 
