@@ -3,7 +3,7 @@
 <!--
 **cyn-chen01/cyn-chen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](CCT_Winter19_Page_09_Image_0001.jpg "Header")]
 
 
 Here are some ideas to get you started:
