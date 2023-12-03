@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Machine Learning, Data Analysis...
 - 👯 I’m looking to collaborate on data analyst/scientist projects..
 - 📫 How to reach me: chen_yue_xin@outlook.com
-- 
+
 ## Technologies and Tools
 
 - R, Python, SQL...
